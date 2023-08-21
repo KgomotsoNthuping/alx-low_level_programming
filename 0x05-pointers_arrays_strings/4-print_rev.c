@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_rev – prime and reversa
- * @s: a string
- * return: zero
+ * print_rev - imprime and reversa
+ * @s: inside string
+ * return: 0 a zero
  */
 void print_rev(char *s)
 {
