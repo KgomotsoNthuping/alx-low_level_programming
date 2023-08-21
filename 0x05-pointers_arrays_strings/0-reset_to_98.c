@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * reset  a function that takes  pointer to an int as parameter then updates the value it points to to 98
- * n: input
- * Return: n
+ * reset_to_98 - function takes a pointer to an int
+ * updates the value to 98
+ * @c: input
+ * Return: c
  */
 void reset_to_98(int *c)
 {
