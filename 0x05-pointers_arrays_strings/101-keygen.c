@@ -3,10 +3,10 @@
 #include <time.h>
 
 /**
- * main - program generates random num
+ * main - program that generates random valid
  * passwords for the program 101-crackme
  *
- * Return: 0 equates success
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
