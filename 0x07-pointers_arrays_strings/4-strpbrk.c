@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strpbrk – enter to the point
+ * _strpbrk - enter to the point
  * @s: its input
  * @accept: its input
  * Return: always at 0 on success
