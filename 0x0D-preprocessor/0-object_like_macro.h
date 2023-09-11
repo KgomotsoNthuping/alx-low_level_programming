@@ -1,3 +1,3 @@
-#define Object-Like_Macro
+#define OBJECT_LIKE_MACRO_H
 
 #define SIZE 1024
