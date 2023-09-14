@@ -7,6 +7,7 @@
  * @...: var
  *
  * Return: sum
+ *         Or - sum of all parameters
  */
 int sum_them_all(const unsigned int n, ...)
 {
