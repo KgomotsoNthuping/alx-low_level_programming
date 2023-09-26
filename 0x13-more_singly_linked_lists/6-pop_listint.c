@@ -5,6 +5,7 @@
  * @head: first node
  *
  * Return: head node data
+ * gets returned
  */
 int pop_listint(listint_t **head)
 {
